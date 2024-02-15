@@ -12,6 +12,5 @@ gap between data and decision, propelling your
 business to new heights.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xayman&show_icons=true&locale=en&layout=compact" alt="0xayman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xayman&show_icons=true&locale=en" alt="0xayman" /></p>
