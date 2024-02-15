@@ -12,7 +12,7 @@ gap between data and decision, propelling your
 business to new heights.
 </p>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xayman)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xayman&layout=compact)
 </p>
 <p>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xayman)](https://github.com/anuraghazra/github-readme-stats)
