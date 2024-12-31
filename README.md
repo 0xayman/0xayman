@@ -4,6 +4,7 @@ I'm a Backend Engineer passionate about AI/ML and building high-quality software
 
 ## 🚀 About Me
 
+- 🎓 B.Sc. in Electrical and Electronics Engineering from University of Khartoum
 - 💻 Backend Engineer with full-stack capabilities
 - 🤖 AI/ML enthusiast, particularly interested in LLMs
 - 🔬 Experience in fine-tuning and working with language models
@@ -13,32 +14,32 @@ I'm a Backend Engineer passionate about AI/ML and building high-quality software
 
 ### Backend Development
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=000000)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
 
 ### AI/Machine Learning
 
-![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HuggingFace-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/HuggingFace-informational?style=flat&logo=huggingface&logoColor=white&color=B957CE)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=713B87)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 
 ### Frontend & Apps
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+![](https://img.shields.io/badge/Electron-informational?style=flat&logo=electron&logoColor=white&color=47848F)
 
 ### Systems Programming
 
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=CE412B)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 
 ## 📈 GitHub Stats
 
